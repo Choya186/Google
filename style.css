@@ -1,0 +1,40 @@
+h5
+{ 
+    padding: none;
+    font-size: 25px;
+}
+
+h6
+{
+    padding: none;
+    font-size: 15px;
+}
+
+
+img
+{
+  display: block;
+  flex: left;
+}
+.login-box
+{
+    tab-size: 10px;
+}
+h11{
+    color: blue;
+    padding: 10px;
+}
+.left
+{
+    
+    float: right;
+    
+    
+ 
+    
+}
+h12
+{
+    float: right;
+}
+
